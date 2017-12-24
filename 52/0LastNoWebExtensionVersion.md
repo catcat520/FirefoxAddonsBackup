@@ -13,6 +13,7 @@ FirefoxMulti-AccountContainers<br>
 Flagfox.5.1.29<br>
 ForecastFox.2.4.8<br>
 FoxClocks.4.3.2<br>
+GoogleSearchLinkFix.1.5.4<br>
 Greasemonkey.3.17<br>
 Stylish.2.0.7<br>
 
