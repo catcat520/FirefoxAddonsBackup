@@ -10,6 +10,7 @@ EmojiCheatsheet.1.2.0<br>
 EmojiKeyboard.2.0.5<br>
 EvernoteWebClipper.6.2.0<br>
 FirefoxMulti-AccountContainers<br>
+Flagfox.5.1.29<br>
 Greasemonkey.3.17<br>
 Stylish.2.0.7<br>
 
