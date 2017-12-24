@@ -15,6 +15,7 @@ ForecastFox.2.4.8<br>
 FoxClocks.4.3.2<br>
 GoogleSearchLinkFix.1.5.4<br>
 GoogleTranslatorForFirefox.2.1.0.5.3<br>
+GoogleTranslatorLite.0.2.6<br>
 Greasemonkey.3.17<br>
 Stylish.2.0.7<br>
 
